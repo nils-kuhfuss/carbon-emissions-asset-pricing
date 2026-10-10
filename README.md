@@ -4,11 +4,11 @@ An empirical asset-pricing study of company-level carbon emissions and European 
 
 Author: Nils Kuhfuß
 
-Degree: M.Sc. Industrial Engineering and Management
+Degree: M.Sc. Industrial Engineering 
 
 Chair: Finance and Banking
 
-Supervision: Prof. Dr. Hendrik Scholz and Anja Stiller
+Supervision: Prof. Dr. Hendrik Scholz 
 
 Submitted: 12 June 2026
 
