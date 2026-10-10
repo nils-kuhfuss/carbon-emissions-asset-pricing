@@ -52,5 +52,5 @@ README.md	English research summary
 
 
 The underlying LSEG / Datastream datasets are not distributed here. Reproducing the empirical results requires appropriate access to the original data. Dependency versions, input-file specifications and execution order will be documented once the scripts have been organised for publication; an end-to-end reproduction workflow has not yet been verified for this repository.
-Citation
-Kuhfuß, N. (2026). CO2-Emissionen und Aktienperformance: Eine exemplarische empirische Analyse für den europäischen Kapitalmarkt. Master's thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Chair of Finance and Banking.
+
+Citation: Kuhfuß, N. (2026). CO2-Emissionen und Aktienperformance: Eine exemplarische empirische Analyse für den europäischen Kapitalmarkt. Master's thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Chair of Finance and Banking.
