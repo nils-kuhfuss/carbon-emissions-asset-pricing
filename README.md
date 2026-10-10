@@ -3,10 +3,15 @@
 An empirical asset-pricing study of company-level carbon emissions and European carbon-allowance futures, based on my master's thesis at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).
 
 Author: Nils Kuhfuß
+
 Degree: M.Sc. Industrial Engineering and Management
+
 Chair: Finance and Banking
+
 Supervision: Prof. Dr. Hendrik Scholz and Anja Stiller
+
 Submitted: 12 June 2026
+
 Thesis language: German; this README provides an English research summary.
 
 Research question
